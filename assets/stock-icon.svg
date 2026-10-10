@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Stock data project</title>
+  <rect width="48" height="48" rx="11" fill="#132235"/>
+  <path d="M10 36h29M11 10v26" fill="none" stroke="#5d7892" stroke-width="2" stroke-linecap="round"/>
+  <path d="m14 29 8-6 6 3 8-12" fill="none" stroke="#74dfd0" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="36" cy="14" r="3" fill="#a5d58a"/>
+</svg>

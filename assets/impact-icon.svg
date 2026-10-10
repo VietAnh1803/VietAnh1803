@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Data visualization project</title>
+  <rect width="48" height="48" rx="11" fill="#132235"/>
+  <path d="M9 37h30" fill="none" stroke="#5d7892" stroke-width="2" stroke-linecap="round"/>
+  <rect x="12" y="25" width="5" height="12" rx="1.5" fill="#48b8cf"/>
+  <rect x="22" y="18" width="5" height="19" rx="1.5" fill="#74dfd0"/>
+  <rect x="32" y="11" width="5" height="26" rx="1.5" fill="#a5d58a"/>
+  <path d="m13 13 4 1 1 4 1-4 4-1-4-1-1-4-1 4Z" fill="#a5d58a"/>
+</svg>
