@@ -1,9 +1,11 @@
+![Abstract data flow connecting data engineering, applied ML, and model evaluation](assets/profile-banner.svg)
+
 # Nguyen Viet Anh
 
 **Data Engineer · Applied Machine Learning · Model Evaluation**  
 Ho Chi Minh City, Vietnam · B.Sc. Computer Science, HCMUT
 
-I build data pipelines and retrieval systems, and evaluate machine learning models with attention to reproducibility and limitations. I currently work as a Data Engineer at OSAS. I am interested in ML evaluation, dataset design, and applied research.
+I build data pipelines and retrieval systems, and evaluate machine learning models with attention to reproducibility and limitations. I currently work as a Data Engineer at OSAS Joint Stock Company via AI-MED. I am interested in ML evaluation, dataset design, and applied research.
 
 ## Selected work
 
@@ -12,7 +14,7 @@ I build data pipelines and retrieval systems, and evaluate machine learning mode
 - **[Vietnam Stock Data Pipeline](https://github.com/VietAnh1803/Big-data-vnstock-pipeline)** — Personal project connecting VNStock, Kafka, Spark, TimescaleDB, Snowflake, and a Streamlit dashboard.
 - **[AI Content Impact Analysis](https://github.com/VietAnh1803/Data-Visualization-AI-Impact)** — Reproducible exploratory analysis and bilingual dashboard. The 200-row dataset has no documented sampling method, so the report avoids causal claims.
 
-At OSAS, I work on Oracle warehouse loads and a Vietnamese financial-statement assistant using SQL and vector retrieval. These are company projects, so their source code is not included here. More detail is available in my [portfolio](https://vietanh1803.github.io/VietAnhPortfolio/).
+At OSAS Joint Stock Company via AI-MED, I work on Oracle warehouse loads and a Vietnamese financial-statement assistant using SQL and vector retrieval. These are company projects, so their source code is not included here. More detail is available in my [portfolio](https://vietanh1803.github.io/VietAnhPortfolio/).
 
 ## Tools I use
 
