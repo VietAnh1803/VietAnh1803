@@ -23,7 +23,6 @@ At OSAS Joint Stock Company via AI-MED, I work on Oracle warehouse loads and a V
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch" title="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" width="32" height="32" alt="Apache Spark" title="Apache Spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" width="32" height="32" alt="Apache Kafka" title="Apache Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" width="32" height="32" alt="Flutter" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />
