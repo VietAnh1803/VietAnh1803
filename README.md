@@ -7,11 +7,7 @@ Ho Chi Minh City, Vietnam · B.Sc. Computer Science, HCMUT
 
 I build data pipelines and retrieval systems, and evaluate machine learning models with attention to reproducibility and limitations. I currently work as a Data Engineer at OSAS Joint Stock Company via AI-MED. I am interested in ML evaluation, dataset design, and applied research.
 
-<table>
-  <tr>
-    <td bgcolor="#0d1117"><img src="assets/osas-logo.png" width="180" alt="OSAS company logo — Your success our values" /></td>
-  </tr>
-</table>
+<img src="assets/osas-logo-card.svg" width="220" alt="OSAS company logo — Your success our values" />
 
 ## Selected work
 
