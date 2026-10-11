@@ -5,12 +5,15 @@
 **Data Engineer · Applied Machine Learning · Model Evaluation**  
 Ho Chi Minh City, Vietnam · B.Sc. Computer Science, HCMUT
 
-I build data pipelines and retrieval systems, and evaluate machine learning models with attention to reproducibility and limitations. I currently work as a Data Engineer at OSAS Joint Stock Company via AI-MED. I am interested in ML evaluation, dataset design, and applied research.
+I work as a Data Engineer at OSAS Joint Stock Company via AI-MED, building Oracle warehouse loads and Python applications. I also test how models perform on future transactions and on people outside their training data. My public projects include runnable notebooks, source code, and the evidence behind their results.
+
+[Portfolio](https://vietanh1803.github.io/VietAnhPortfolio/) · [Kaggle](https://www.kaggle.com/vanh1803) · [Certificates](https://vietanh1803.github.io/certificates-hub/) · [LinkedIn](https://www.linkedin.com/in/nguyenvietanh180304/)
 
 <img src="assets/osas-logo-card.svg" width="220" alt="OSAS company logo — Your success our values" />
 
 ## Selected work
 
+- **[LeakageLab — Temporal Risk Benchmark](https://github.com/VietAnh1803/LeakageLab)** — An independent, AI-assisted benchmark built around 50,000 synthetic transactions, delayed labels, and time-based evaluation. Logistic regression was selected on validation; author-side AP on 10,051 future transactions was 0.193. All 18 tests passed locally and on Kaggle. The public notebook reproduces model selection and writes predictions on CPU with Internet off. [Run on Kaggle](https://www.kaggle.com/code/vanh1803/leakagelab-public-reference-solver) · [Input dataset](https://www.kaggle.com/datasets/vanh1803/leakagelab-public-solver-input)
 - <img src="assets/healthmate-icon.svg" width="24" height="24" alt="HealthMate project icon" /> **[HealthMate](https://github.com/Brookvita3/HealthMate)** — Graduation thesis with a team of three. I designed the Flutter UI and contributed to stress-model, readiness-model, and prescription-OCR evaluation. Our stress experiment used leave-one-subject-out validation on 15 WESAD participants (869 labeled windows), reaching 93.8% mean accuracy and 92.8% macro-F1. The current evaluation used full-record per-subject normalization; resting-only calibration remains to be tested. [Flutter app](https://github.com/Btbach25/HealthMate_FE) · [Project summary](https://vietanh1803.github.io/VietAnhPortfolio/#work)
 - <img src="assets/ml-icon.svg" width="24" height="24" alt="Machine learning project icon" /> **[Adult Census Income ML Pipeline](https://github.com/VietAnh1803/HCMUT_ML_AdultCensusIncome_Pipeline)** — Coursework comparing classical models and a PyTorch MLP with configurable preprocessing for tabular classification.
 - <img src="assets/stock-icon.svg" width="24" height="24" alt="Stock data project icon" /> **[Vietnam Stock Data Pipeline](https://github.com/VietAnh1803/Big-data-vnstock-pipeline)** — Personal project connecting VNStock, Kafka, Spark, TimescaleDB, Snowflake, and a Streamlit dashboard.
@@ -32,9 +35,10 @@ At OSAS Joint Stock Company via AI-MED, I work on Oracle warehouse loads and a V
 </p>
 
 - **Data & ML:** Python, SQL, Pandas, scikit-learn, CatBoost, PyTorch, model evaluation
-- **Data platforms:** PostgreSQL/pgvector, Oracle/PL-SQL, Kafka, Spark
+- **Databases & ETL:** Oracle, PL/SQL, ODI, GoldenGate, PostgreSQL/pgvector
+- **Streaming:** Kafka, Spark
 - **Applications & delivery:** FastAPI, Flutter, Docker, Git
 
 ## Connect
 
-[Portfolio](https://vietanh1803.github.io/VietAnhPortfolio/) · [LinkedIn](https://www.linkedin.com/in/nguyenvietanh180304/)
+[Portfolio](https://vietanh1803.github.io/VietAnhPortfolio/) · [Kaggle](https://www.kaggle.com/vanh1803) · [Certificates](https://vietanh1803.github.io/certificates-hub/) · [LinkedIn](https://www.linkedin.com/in/nguyenvietanh180304/)
