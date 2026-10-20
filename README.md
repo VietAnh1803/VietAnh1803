@@ -5,7 +5,7 @@
 **Data Engineer · Applied Machine Learning · Model Evaluation**  
 Ho Chi Minh City, Vietnam · Computer Science, Ho Chi Minh City University of Technology (HCMUT), VNU-HCM — program requirements completed; expected graduation Nov 2026
 
-I work as a Data Engineer at OSAS Joint Stock Company via AI-MED, building Oracle ETL and Python data pipelines. My personal and academic projects explore model evaluation, OCR and reproducible experiments. The projects below link to source code, runnable notebooks and documented results.
+I work as a Data Engineer at OSAS Joint Stock Company, building Oracle ETL and Python data pipelines. My personal and academic projects explore model evaluation, OCR and reproducible experiments. The projects below link to source code, runnable notebooks and documented results.
 
 [Portfolio](https://vietanh1803.github.io/VietAnhPortfolio/) · [CV](https://vietanh1803.github.io/VietAnhPortfolio/Nguyen-Viet-Anh-CV.pdf) · [Kaggle](https://www.kaggle.com/vanh1803) · [Certificates](https://vietanh1803.github.io/certificates-hub/) · [LinkedIn](https://www.linkedin.com/in/nguyenvietanh180304/)
 
